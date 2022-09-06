@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['writerequestparameters_0',['WriteRequestParameters',['../struct_write_request_parameters.html',1,'']]]
+  ['queue_0',['Queue',['../class_queue.html',1,'']]]
 ];
